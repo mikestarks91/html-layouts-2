@@ -1,0 +1,65 @@
+html, body, .container {
+	width: 960px;
+	height: 100%;
+	margin: 0 auto;
+}
+.topbox {
+	height: 200px;
+	width: 290px;
+	margin: 15px 15px;
+	float: left;
+}
+.topbox1 {
+	background-color: #D0021B;
+}
+.topbox2 {
+	background-color: #4A90E2;
+}
+.topbox3 {
+	background-color: #4A4A4A;
+}
+.textbox  {
+	width: 900px;
+	height: 500px;
+	padding: 25px 15px;
+	font-family: sans-serif;
+	position: relative;
+	float: left;
+	text-align: justify;
+}
+.contentbox {
+	width: 930px;
+	height: 300px;
+	margin: 15px 15px;
+	background-color: #4A90E2;
+	float: left;
+	position: relative;
+}
+.insidebox {
+	width: 310px;
+	height: 300px;
+	background-color: #D0021B;
+	position: absolute;
+}
+footer {
+	width: 930px;
+	height: 150px;
+	margin: 15px 15px;
+	background-color: #4A90E2;
+	float: left;
+	position: relative;
+}
+.footerbox {
+	height: 150px;
+	position: absolute;
+}
+.red {
+	width: 290px;
+	margin-left: 640px;
+	background-color: #D0021B;
+}
+.black {
+	width: 240px;
+	margin-left: 25px;
+	background-color: #4A4A4A;
+}
